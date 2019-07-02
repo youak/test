@@ -5,4 +5,4 @@ Git tracks changes.
 Git tracks changes of files.
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
-
+Fix bug 101.
